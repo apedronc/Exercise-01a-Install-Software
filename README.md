@@ -2,8 +2,6 @@
 
 Exercise for MSCH-C220 at Indiana University, Bloomington
 
-# Exercise 01a: Install Software
-
 ## My name is:
 Aiden Pedroncelli
 
